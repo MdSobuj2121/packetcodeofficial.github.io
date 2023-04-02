@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background: url("https://www.wallpapers13.com/wp-content/uploads/2016/10/Landscape-Nature-Cathedral-Rock-in-Sedona-Arizona-United-States-Desktop-Wallpaper-HD-free-download-1920x1200-840x525.jpg");
+}
