@@ -15,7 +15,8 @@ h3{
     letter-spacing: 4px;
     font-size: 25px;
     text-align: center;
-    color: rgba(91, 5, 250, 0.954);
+    color: black;
+    background: lightseagreen;
 }
 .clock{
     display: flex;
@@ -52,6 +53,6 @@ h3{
     width: 60px;
     height: 30px;
     font-size: 30px;
-    background: green;
+    background: darkorchid;
 
 }
